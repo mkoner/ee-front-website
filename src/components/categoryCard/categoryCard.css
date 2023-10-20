@@ -1,0 +1,24 @@
+.category-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 150px;
+    background-color: black;
+    text-align: center;
+    margin: 1rem;
+    cursor: pointer;
+
+}
+
+.category-card:hover {
+    border: 1px solid;
+}
+
+.category-card p {
+    color: #fff;
+    background-color: rgba(96, 111, 130, 0.5);
+    text-transform: uppercase;
+    font-weight: 700;
+}

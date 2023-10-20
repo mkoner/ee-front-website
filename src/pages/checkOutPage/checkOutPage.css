@@ -1,0 +1,9 @@
+
+form{
+    max-width: 500px;
+    margin: 10px auto;
+}
+
+.order-summury, .commander {
+    text-align: center;
+}

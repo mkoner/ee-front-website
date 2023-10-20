@@ -1,0 +1,46 @@
+
+header{
+    margin-bottom: 20px;
+}
+
+.navbar-light .navbar-brand{
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff !important;
+}
+
+.nav-link{
+    padding: 5px;
+}
+
+.nav-link:hover{
+	background-color: Gray; 
+}
+
+.navbar-nav{
+    display: flex;
+    justify-content: space-evenly;    
+}
+
+
+
+.modal-footer{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.modal-dialog {
+    max-width: 60%;
+    margin: 1.75rem auto;
+}
+
+
+@media screen and (max-width: 950px) {
+    .modal-dialog {
+        max-width: 80%;
+        margin: 1.75rem auto;
+    }
+  }

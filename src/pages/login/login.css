@@ -1,0 +1,22 @@
+.login-page-page{
+    margin-top: 60px;
+}
+
+.login-page{
+    width: 500px;
+    margin: 100px auto;
+}
+
+
+.login-page form{
+    display: flex;
+    flex-direction: column;
+}
+
+.login-btn{
+   margin: auto;
+}
+
+.link-register{
+    text-align: center;
+}

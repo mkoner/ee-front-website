@@ -1,0 +1,16 @@
+.card{
+    width: 20rem;
+    border-radius: 5px;
+    border: none;
+    box-shadow: -1px 4px 15px 1px rgb(0 0 0 / 20%);
+}
+
+.pname-prce, .card-buttons{
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+}
+
+.card-img-top{
+    height: 200px;
+}
